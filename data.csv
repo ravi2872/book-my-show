@@ -1,0 +1,11 @@
+"employee_id","first_name","last_name","manager_id"
+4009,"Klaus","Koch",4329
+4329,"Martina","Candreva",4125
+4952,"Sandra","Rajkovic",4529
+4952,"Sandra","Rajkovic",4529
+4329,"Martina","Candreva",4125
+4125,"Mafalda","Ranieri",0
+4329,"Martina","Candreva",4125
+4529,"Nancy","Young",4125
+4125,"Mafalda","Ranieri",0
+4529,"Nancy","Young",4125
